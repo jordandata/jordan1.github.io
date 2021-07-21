@@ -3,11 +3,11 @@
 ---
 
 ### Machine Learning
-[Classification](/sample_page)
+[Classification](/Jupyter Notebook Classificaiton Example)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Classification](/pdf/sample_presentation.pdf)
+[Image Classification](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
