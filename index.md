@@ -4,9 +4,9 @@
 
 ### Machine Learning
 [Classification](/Jupyter Notebook Classificaiton Example)
-<br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br><br>
 ---
 [Image Classification](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
