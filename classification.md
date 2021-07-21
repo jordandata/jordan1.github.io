@@ -1,6 +1,6 @@
 ## Machine Learning (Classification)
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** In this notebook I would like to highlight my data analysis, cleaning, and manipulation skills. In addition to this I also utilize a number of different machine learning classification techniques to determine which one is best. The goal of this problem was to utilize different classification techniques to determine whether the "area" column would be larger than 0.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
