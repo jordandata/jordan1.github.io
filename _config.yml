@@ -1,11 +1,9 @@
-title: John Doe # your name (or website title) here
+title: Jordan Howard Portfolio # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  This is a website dedicated to showcasing my work. There are projects related to data visualization, machine learning, coding and more.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/jordan-howard-39386813b/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-cayman
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
