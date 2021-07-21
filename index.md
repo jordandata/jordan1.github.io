@@ -9,10 +9,12 @@
 
 ---
 [Image Classification](/pdf/sample_presentation.pdf)
+<br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Neural Network](http://example.com/)
+<br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
