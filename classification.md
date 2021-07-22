@@ -7,7 +7,7 @@
 
 <img src="images/accruacy.png?raw=true"/>
 
-**[See Full Code Here](https://github.com/jordandata/jordandata.github.io/blob/master/Machine%20Learning/Machine%20Learning%20(Classification).ipynb)
+### [See Full Code Here](https://github.com/jordandata/jordandata.github.io/blob/master/Machine%20Learning/Machine%20Learning%20(Classification).ipynb)
 
 ### 2. Image Classification
 
@@ -17,7 +17,7 @@
 <img src="images/3.png?raw=true"/>
 <img src="images/9.png?raw=true"/>
 
-**[See Full Code Here](https://github.com/jordandata/jordandata.github.io/blob/master/Machine%20Learning/Machine%20Learning%20(Image%20Classification).ipynb)
+### [See Full Code Here](https://github.com/jordandata/jordandata.github.io/blob/master/Machine%20Learning/Machine%20Learning%20(Image%20Classification).ipynb)
 
 
 ### 3. Neural Networks
@@ -28,7 +28,7 @@
 <img src="images/ann.png?raw=true"/>
 <img src="images/ann1.png?raw=true"/>
 
-**[See Full Code Here](https://github.com/jordandata/jordandata.github.io/blob/master/Machine%20Learning/Machine%20Learning%20(Neural%20Networks).ipynb)
+### [See Full Code Here](https://github.com/jordandata/jordandata.github.io/blob/master/Machine%20Learning/Machine%20Learning%20(Neural%20Networks).ipynb)
 
 
 
