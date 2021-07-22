@@ -14,8 +14,8 @@
 **Project 2 Description :** The goal of this problem was to create a model that could accurately classify the images that were presented to it. As seen below, the images are a cluster of pixles that resemble numbers. I utilized my visualization, machine learning, and data analysis skills and also did some work with simple neural networks to perform this image classification.
 
 
-<img src="images/3.png?raw=true"/>
-<img src="images/9.png?raw=true"/>
+<img src="images/3.png?raw=true"/> <img src="images/9.png?raw=true"/>
+
 
 ### [See Full Code Here](https://github.com/jordandata/jordandata.github.io/blob/master/Machine%20Learning/Machine%20Learning%20(Image%20Classification).ipynb)
 
