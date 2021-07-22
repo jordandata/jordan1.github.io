@@ -5,6 +5,7 @@
 <br>
 ### Using the format:
 <br>
+
 ````
 Hello [Personalized Name],
 
@@ -14,11 +15,10 @@ Best,
 
 Jordan
 ````
-<br>
+
+
 <img src="images/list.png?raw=true"/>
 
 **Note**: This is different from a BCC email because it sends the email with their unique name in it!
-<br>
-
 
 [Click Here to see code]
