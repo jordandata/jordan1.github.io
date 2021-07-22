@@ -20,7 +20,7 @@
 
 ### Dther Projects
 
-- [Automatic Email Generator](http://example.com/)
+- [Automatic Email Generator](/emailgenerator.md)
 
 - [Literature review of Multi Criteria Decision Making in Health Care](/Multi Criteria Decision Making in Healthcare.pdf)
 
