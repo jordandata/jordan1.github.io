@@ -1,13 +1,6 @@
 ## Mobile Health Honors Thesis
 
-**Project 1 Description :** The goal of this problem was to utilize different classification techniques to determine whether the "area" column would be larger than 0. The main skills I would like to highlight my data analysis, cleaning, and manipulation skills. In addition to this I also utilized a number of different machine learning classification methods to determine which one is best based on accuracy and recall.
+**Project 1 Description :** Using a sleep self management study involving Personal Sleep Monitoring Devices (PSMD), demonstrate the effectiveness of recording mobile health (mHealth) usability data at multiple time points, disaggregating data, representing data using visualization techniques, and using qualitative data to explain changes in usability scores.
 
 
 <img src="images/accruacy.png?raw=true"/>
-
-
-### 2. Image Classification
-
-**Project 2 Description :**
-
-<img src="images/3.png?raw=true"/>
