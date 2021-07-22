@@ -2,18 +2,18 @@
 #### A collection of my various data projects in one place!
 <br><br>
 ### Machine Learning
-[Classification](/classification.md)
+## [Classification](/classification.md)
 
 <br><br>
 <img src="images/3.png?raw=true"/>
 
 ---
-[Honors Thesis (Data Analysis)](/pdf/sample_presentation.pdf)
+## [Honors Thesis (Data Analysis)](/pdf/sample_presentation.pdf)
 <br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Public Tableau Portfolio](https://public.tableau.com/app/profile/jordan.howard)
+## [Public Tableau Portfolio](https://public.tableau.com/app/profile/jordan.howard)
 <br><br>
 <img src="images/tableau.png?raw=true"/>
 
@@ -33,5 +33,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:12px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
