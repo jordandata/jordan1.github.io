@@ -1,7 +1,10 @@
 ## Portfolio
+<br><br>
+#### A collection of my various data projects in one place!
 
 ### Machine Learning
 [Classification](/Jupyter Notebook Classificaiton Example)
+
 <br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
