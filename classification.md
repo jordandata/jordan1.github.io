@@ -12,8 +12,8 @@ if (isAwesome){
 ```
 
 ### 2. Image Classification
-<img src="images/3.jpg?raw=true"/>
-<img src="images/9.jpg?raw=true"/>
+<img src="images/3.png?raw=true"/>
+<img src="images/9.png?raw=true"/>
 
 ```javascript
 if (isAwesome){
