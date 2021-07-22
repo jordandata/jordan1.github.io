@@ -12,11 +12,6 @@ df.loc[(df['area'] > 0), 'nonzero'] = 1
 
 <img src="images/accruacy.png?raw=true"/>
 
-[See Full File](/Machine Learning/Machine Learning (Classification).ipynb))
-
-
-
-
 
 ### 2. Image Classification
 
