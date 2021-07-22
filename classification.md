@@ -25,7 +25,7 @@
 **Project 3 Description :** The goal of this problem was to use neural networks to predict a value in a california housing data set. i utilized my visualization, machine learning, and data analysis skills as well as my work with artifical neural networks.
 
 
-<img src="images/ann.png?raw=true"/>
-<img src="images/ann1.png?raw=true"/>
+<img src="images/ann.png?raw=true"/> <img src="images/ann1.png?raw=true"/>
+
 
 ### [See Full Code Here](https://github.com/jordandata/jordandata.github.io/blob/master/Machine%20Learning/Machine%20Learning%20(Neural%20Networks).ipynb)
