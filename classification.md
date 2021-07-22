@@ -4,7 +4,7 @@
 
 **Project 1 Description :** In this notebook I would like to highlight my data analysis, cleaning, and manipulation skills. In addition to this I also utilize a number of different machine learning classification techniques to determine which one is best. The goal of this problem was to utilize different classification techniques to determine whether the "area" column would be larger than 0.
 
-<img src="images/accuracy.png?raw=true"/>
+<img src="images/accruacy.png?raw=true"/>
 
 ```jupyter notebook
 if (isAwesome){
