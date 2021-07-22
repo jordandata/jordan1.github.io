@@ -16,6 +16,7 @@ Best,
 
 Jordan
 ````
+<br>
 <img src="images/list.png?raw=true"/>
 
 
