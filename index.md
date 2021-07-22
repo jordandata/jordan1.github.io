@@ -5,24 +5,24 @@
 [Classification](/classification.md)
 
 <br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/3.png?raw=true"/>
 
 ---
-[Image Classification](/pdf/sample_presentation.pdf)
+[Honors Thesis (Data Analysis)](/pdf/sample_presentation.pdf)
 <br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Neural Network](http://example.com/)
-<br><br>
+[Public Tableau Portfolio](https://public.tableau.com/app/profile/jordan.howard)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br><br>
+<img src="images/tableau.png?raw=true"/>
 
 ---
 
 ### Data Visualization
 
-- [Public Tableau Portfolio](https://public.tableau.com/app/profile/jordan.howard)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
