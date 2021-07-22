@@ -14,7 +14,6 @@
 
 ---
 [Public Tableau Portfolio](https://public.tableau.com/app/profile/jordan.howard)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 <br><br>
 <img src="images/tableau.png?raw=true"/>
 
