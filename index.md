@@ -7,12 +7,12 @@
 <img src="images/3.png?raw=true"/>
 
 ---
-## [Honors Thesis (Data Analysis)](/pdf/sample_presentation.pdf)
+## [Honors Thesis (Data Analysis)](/thesis.md)
 <br><br>
 <img src="images/mhealth.jpg?raw=true"/>
 
 ---
-## [Public Tableau Portfolio](https://public.tableau.com/app/profile/jordan.howard)
+## [Link to Public Tableau Portfolio](https://public.tableau.com/app/profile/jordan.howard)
 <br><br>
 <img src="images/tableau.png?raw=true"/>
 
