@@ -9,7 +9,7 @@
 ---
 ## [Honors Thesis (Data Analysis)](/pdf/sample_presentation.pdf)
 <br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/mhealth.jpg?raw=true"/>
 
 ---
 ## [Public Tableau Portfolio](https://public.tableau.com/app/profile/jordan.howard)
