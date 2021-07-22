@@ -1,5 +1,7 @@
 # Project For Fun! The Email Generator
+---
 ### Have you ever been faced with needing to send personalized emails to a large group of people? I wrote some code for just this problem. 
+---
 <br>
 **My Inspiration**: My girlfriend needed to send 100s of emails for her work, all which came from an excel sheet which contained first name, last name, and email address as seen below.
 <br>
