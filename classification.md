@@ -29,7 +29,3 @@
 <img src="images/ann1.png?raw=true"/>
 
 ### [See Full Code Here](https://github.com/jordandata/jordandata.github.io/blob/master/Machine%20Learning/Machine%20Learning%20(Neural%20Networks).ipynb)
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
