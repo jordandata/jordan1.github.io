@@ -1,5 +1,5 @@
 # Portfolio
-#### A collection of my various data projects in one place!
+### A collection of my various data projects in one place!
 <br><br>
 ## [Machine Learning Projects](/classification.md)
 
