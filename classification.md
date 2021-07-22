@@ -7,7 +7,7 @@
 
 <img src="images/accruacy.png?raw=true"/>
 
-[See Full Code Here](/Machine Learning/Machine Learning (Classification).ipynb))
+[See Full Code Here](https://github.com/jordandata/jordandata.github.io/blob/master/Machine%20Learning/Machine%20Learning%20(Classification).ipynb)
 
 ### 2. Image Classification
 
