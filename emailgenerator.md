@@ -22,7 +22,7 @@ Jordan
 ### Sample of code
 
 `````
-# iterate through the records
+# iterate through each email address
 for i in range(len(emails)):
   
     server.set_debuglevel(1)
