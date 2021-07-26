@@ -28,10 +28,10 @@ for i in range(len(emails)):
     server.set_debuglevel(1)
     body = "Hello" + " " + names[i] + "," + "\n" + "\n" +  "I hope this email finds you well and you are enjoying the start of summer. I am excited to reach out to you to see if you are interested in coming to our BBQ! Please RSVP by Friday! !" + "\n"+ "\n" + "Best," + "\n"+ "\n" + "Jordan" +"\n" "TWN"+ "\n"+ "\n"
     msg = MIMEMultipart()
-    sender = 'jordanhoward1223@gmail.com'
+    sender = 'senderemail@gmail.com'
     recipients = emails[i]
-    msg['Subject'] = "TWN Athlete Impact Summit"
-    msg['From'] = "Jordan Howard"
+    msg['Subject'] = "BBQ"
+    msg['From'] = "Your Name"
     msg['To'] = emails[i]
     msg.attach(MIMEText(body, 'plain'))
     msg.attach(part)
@@ -42,7 +42,6 @@ for i in range(len(emails)):
 server.close()
 print('Mail Sent')
 
+`````
 
 **Note**: This is different from a BCC email because it sends the email with their unique name in it!
-
-[Click Here to see code]
