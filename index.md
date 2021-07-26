@@ -7,7 +7,7 @@
 <img src="images/3.png?raw=true"/>
 
 ---
-## [Honors Thesis (Data Analysis)](/thesis.md)
+## [Honors Thesis (Data Analysis)](/Mobile Health Thesis Summary.pdf)
 <br><br>
 <img src="images/mhealth.jpg?raw=true"/>
 
@@ -18,7 +18,7 @@
 
 ---
 
-### Dther Projects
+### Other Projects
 
 - [Automatic Email Generator](/emailgenerator.md)
 
