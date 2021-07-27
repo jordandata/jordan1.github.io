@@ -12,7 +12,7 @@
 <img src="images/mhealth.jpg?raw=true"/>
 
 ---
-## [Link to Public Tableau Portfolio](https://public.tableau.com/app/profile/jordan.howard)
+## [Link to Public Tableau Portfolio (Data Visualization)](https://public.tableau.com/app/profile/jordan.howard)
 <br><br>
 <img src="images/tableau.png?raw=true"/>
 
