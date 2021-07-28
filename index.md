@@ -28,7 +28,7 @@
 
 ---
 ## New Website Portfolio Coming Soon!
-# Smoother user flows and more responsive html5 site in the works!
+### Smoother user flows and more responsive html5 site in the works!
 
 
 <img src="images/website.jpg?raw=true"/>
