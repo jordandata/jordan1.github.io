@@ -9,7 +9,7 @@
 ---
 ## [Honors Thesis (Data Analysis)](/Mobile Health Thesis Summary.pdf)
 <br><br>
-<img src="images/mhealth.jpg?raw=true" target= "_blank"/>
+<img src="images/mhealth.jpg?raw=true"/>
 
 ---
 ## [Link to Public Tableau Portfolio (Data Visualization)](https://public.tableau.com/app/profile/jordan.howard)
