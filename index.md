@@ -14,7 +14,7 @@
 ---
 ## [Continuous Improvement Project)](/UHS Project Summary.pdf)
 <br><br>
-<img src="images/UHS.jpg?raw=true"/>
+<img src="images/UHS.png?raw=true"/>
 
 ---
 ## [Link to Public Tableau Portfolio (Data Visualization)](https://public.tableau.com/app/profile/jordan.howard)
