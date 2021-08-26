@@ -12,7 +12,7 @@
 <img src="images/mhealth.jpg?raw=true"/>
 
 ---
-## [Continuous Improvement Project)](/UHS Project Summary.pdf)
+## [Continuous Improvement Project](/UHS Project Summary.pdf)
 <br><br>
 <img src="images/UHS.png?raw=true"/>
 
